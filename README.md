@@ -13,9 +13,17 @@ The primary source of Data used is sales data csv this is an open source data wh
 - SQL - Structure Query Language for Querying of Data.
 - Github - for Portfolio Building
 
-### Data Cleaning and Preparation
+### DATA CLEANING AND PREPARATION
 In the initial cleaning of the Data and Preparation, we perform the following actions:
 1. Data Loading and Inspection
 2. Handling missing variables
 3. Data cleaning and formatting
-   
+
+### EXPLORATORY DATA ANALYSIS
+Exploratory Data Analysis involves the exploring of the Data to answer somr questions about the Data such as:
+- What is the overall sales trend?
+- Which product are top sellers?
+- What product are peak sales?
+
+### DATA ANALYSIS
+This is where we include some basic lines of code and queries or even some of the Data Analysis Expression used during the Analysis;
