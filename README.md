@@ -9,6 +9,6 @@ This Data Analysis Project aims to look into the sales performance of each Regio
 The primary source of Data used is sales data csv this is an open source data which was downloaded from canvas under LITA class assignment.
 
 ### TOOLS USED
-- Microsoft Excel for Data Cleaning, Analysis and Visualization.
+- Microsoft Excel [download here](https://www.microsoft.com)for Data Cleaning, Analysis and Visualization.
 - SQL - Structure Query Language for Querying of Data.
 - Github - for Portfolio Building
