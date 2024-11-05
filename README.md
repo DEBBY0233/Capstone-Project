@@ -12,3 +12,10 @@ The primary source of Data used is sales data csv this is an open source data wh
 - Microsoft Excel [download here](https://www.microsoft.com) for Data Cleaning, Analysis and Visualization.
 - SQL - Structure Query Language for Querying of Data.
 - Github - for Portfolio Building
+
+### Data Cleaning and Preparation
+In the initial cleaning of the Data and Preparation, we perform the following actions:
+1. Data Loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+   
