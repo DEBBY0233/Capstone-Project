@@ -27,3 +27,6 @@ Exploratory Data Analysis involves the exploring of the Data to answer somr ques
 
 ### DATA ANALYSIS
 This is where we include some basic lines of code and queries or even some of the Data Analysis Expression used during the Analysis;
+
+### DATA VISUALIZATION
+
