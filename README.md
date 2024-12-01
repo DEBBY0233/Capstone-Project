@@ -48,6 +48,12 @@ After the data set was cleaned on Excel, the following analysis was performed
 =SUMIFS(H2:H9922,C2:C9922,C2)
 ```
 ### PIVOT TABLES AND CHARTS
+![image](https://github.com/user-attachments/assets/ffa9f3fc-d092-4160-8b0f-bd8429ed31d0)
+![image](https://github.com/user-attachments/assets/e6c7eb8c-59d0-47ea-bc1e-f6aaf219af34)
+![image](https://github.com/user-attachments/assets/df1e85e9-8c02-4a48-bcdf-87b37d2b02ad)
+![image](https://github.com/user-attachments/assets/8be1acf8-0b15-404c-9b55-9d14853471ec)
+
+
 
 ### DATA VISUALIZATION
 ![image](https://github.com/user-attachments/assets/c7654384-f109-4f20-8d54-b2298a344fd9)
