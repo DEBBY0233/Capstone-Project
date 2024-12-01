@@ -96,11 +96,11 @@ order by Total_Purchase_Amount desc
 ![WhatsApp Image 2024-12-01 at 18 21 56_00e4c07d](https://github.com/user-attachments/assets/5ba781d1-2c78-4bdd-a131-2b26f4079900)
 ![WhatsApp Image 2024-12-01 at 18 21 56_7c146318](https://github.com/user-attachments/assets/f3761a2f-7f56-4350-9caf-d38f5764641a)
 
-
-
-
-
+### ANALYSIS ON POWER BI
+- On Power BI, some analysis were carries out creating measured column and some calculated columns. 
 ### DATA VISUALIZATION
 ![image](https://github.com/user-attachments/assets/c7654384-f109-4f20-8d54-b2298a344fd9)
+
+# INFERENCE
 
 
