@@ -83,6 +83,20 @@ Select Region,sum(Revenue) as Total_Revenue_per_Region
 from [dbo].[SALES_DATA_]
 Group by Region
 ```
+- Top five customers by Total Purchase Amount
+```
+Select Top 5 Customer_id,sum(Quantity) as Total_Purchase_Amount
+from [dbo].[SALES_DATA_]
+Group by Customer_Id
+order by Total_Purchase_Amount desc
+```
+#### Report of Queries on SQL
+![WhatsApp Image 2024-12-01 at 18 21 55_33b5841a](https://github.com/user-attachments/assets/beb7148c-78f3-4ce7-9238-220a63d734d4)
+![WhatsApp Image 2024-12-01 at 18 21 55_a94aa35d](https://github.com/user-attachments/assets/85acfd9f-f5e9-46ec-954d-0dc6ecb6dbb1)
+![WhatsApp Image 2024-12-01 at 18 21 56_00e4c07d](https://github.com/user-attachments/assets/5ba781d1-2c78-4bdd-a131-2b26f4079900)
+![WhatsApp Image 2024-12-01 at 18 21 56_7c146318](https://github.com/user-attachments/assets/f3761a2f-7f56-4350-9caf-d38f5764641a)
+
+
 
 
 
