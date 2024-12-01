@@ -19,14 +19,35 @@ In the initial cleaning of the Data and Preparation, we perform the following ac
 2. Handling missing variables
 3. Data cleaning and formatting
 
-### EXPLORATORY DATA ANALYSIS
+### EXPLORATORY
 Exploratory Data Analysis involves the exploring of the Data to answer somr questions about the Data such as:
 - What is the overall sales trend?
 - Which product are top sellers?
 - What product are peak sales?
 
 ### DATA ANALYSIS
-This is where we include some basic lines of code and queries or even some of the Data Analysis Expression used during the Analysis;
+This is where we include some basic lines of code and queries or even some of the Data Analysis Expression used during the Analysis.
+
+#### DATA ANALYSIS ON EXCEL
+After the data set was cleaned on Excel, the following analysis was performed
+
+- Total Sales
+```
+=F2*G2
+```
+- Transaction Category
+```
+=IF(F2<=5,"low")
+```
+- Grand Total Sales
+```
+=SUM(H2:H9922)
+```
+- Total Sales per Product
+```
+=SUMIFS(H2:H9922,C2:C9922,C2)
+```
+### PIVOT TABLES AND CHARTS
 
 ### DATA VISUALIZATION
 ![image](https://github.com/user-attachments/assets/c7654384-f109-4f20-8d54-b2298a344fd9)
