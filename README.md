@@ -53,6 +53,37 @@ After the data set was cleaned on Excel, the following analysis was performed
 ![image](https://github.com/user-attachments/assets/df1e85e9-8c02-4a48-bcdf-87b37d2b02ad)
 ![image](https://github.com/user-attachments/assets/8be1acf8-0b15-404c-9b55-9d14853471ec)
 
+### ANALYSIS ON SQL
+#### Below are the queries run on SQL
+- To retrieve the total sales from each category
+```
+select product,sum(revenue) as Total_Revenue
+from[dbo].[SALES_DATA_] Group by Product
+```
+- Number of Sales Transaction in each region
+```
+Select Region,sum(Revenue) as Total_Sales
+from  [dbo].[SALES_DATA_] Group by Region
+```
+- Highest selling product by Total sales
+```
+Select Product, sum(Quantity) as Total_sales_or_Total_Quantity_Sold
+from [dbo].[SALES_DATA_] Group by Product
+Order by Total_sales_or_Total_Quantity_Sold Desc
+```
+- Total Revenue by Product
+```
+Select Product,sum(Revenue) as Total_Revenue_per_Product
+from [dbo].[SALES_DATA_]
+Group by Product
+```
+- Total Revenue by Region
+```
+Select Region,sum(Revenue) as Total_Revenue_per_Region
+from [dbo].[SALES_DATA_]
+Group by Region
+```
+
 
 
 ### DATA VISUALIZATION
